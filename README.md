@@ -1,3 +1,3 @@
-# mad-hatters
+#Mad-Hatters
 ---
-A landing of clothes store.
+A landing page of hats store. 
